@@ -24,10 +24,15 @@ Built a content-based **Movie Recommendation System** using Python and Pandas fo
 
 
 1.Movie Dataset
+
 2.Data Cleaning (Pandas)
+
 3.Combine Features (genres + keywords + cast + director + tagline)
+
 4.TF-IDF Vectorization
+
 5.Cosine Similarity
+
 6.Top Similar Movies
 
 
