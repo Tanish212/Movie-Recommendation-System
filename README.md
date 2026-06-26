@@ -46,5 +46,6 @@ Developed a content-based **Movie Recommendation System** using Python, Pandas, 
 • difflib
 
 • Scikit-learn
+    
     - TfidfVectorizer
     - cosine_similarity
