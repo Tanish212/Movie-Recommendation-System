@@ -1,7 +1,7 @@
 # MOVIE RECOMMENDATION SYSTEM
 
 
-Built a content-based **Movie Recommendation System** using Python and Pandas for data preprocessing, TF-IDF for feature extraction, and Cosine Similarity to recommend movies with similar content. Enhanced user experience by integrating approximate movie title matching with difflib.
+Developed a content-based **Movie Recommendation System** using Python, Pandas, TF-IDF Vectorization, and Cosine Similarity to recommend movies based on content similarity. Built an interactive web application with Streamlit, integrated approximate movie title matching using `difflib`, and deployed the application on Streamlit Community Cloud with the source code hosted on GitHub.
 
 ## FEATURES:
 
